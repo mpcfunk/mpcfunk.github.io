@@ -160,7 +160,8 @@
         "download_url": "old2.zip",
         "download_count": 19882,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 3,
@@ -241,7 +242,8 @@
         "download_url": "bumbumgranada.zip",
         "download_count": 35394,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 4,
@@ -322,7 +324,8 @@
         "download_url": "malandramente.zip",
         "download_count": 18438,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 5,
@@ -403,7 +406,8 @@
         "download_url": "marimba.zip",
         "download_count": 23697,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 6,
@@ -484,7 +488,8 @@
         "download_url": "vaitoma.zip",
         "download_count": 24400,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 7,
@@ -565,7 +570,8 @@
         "download_url": "sentaemmim.zip",
         "download_count": 26037,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 8,
@@ -646,7 +652,8 @@
         "download_url": "meiota.zip",
         "download_count": 30910,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 9,
@@ -727,7 +734,8 @@
         "download_url": "predador.zip",
         "download_count": 38811,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 10,
@@ -808,7 +816,8 @@
         "download_url": "th.zip",
         "download_count": 18062,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 11,
@@ -889,7 +898,8 @@
         "download_url": "bailedefavela.zip",
         "download_count": 20877,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 12,
@@ -970,7 +980,8 @@
         "download_url": "tamara.zip",
         "download_count": 18045,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 13,
@@ -1051,7 +1062,8 @@
         "download_url": "chefe.zip",
         "download_count": 20369,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 14,
@@ -1132,7 +1144,8 @@
         "download_url": "trampolim.zip",
         "download_count": 18019,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 15,
@@ -1213,7 +1226,8 @@
         "download_url": "reidelas.zip",
         "download_count": 23260,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 16,
@@ -1294,7 +1308,8 @@
         "download_url": "saudadedamhex.zip",
         "download_count": 18038,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 17,
@@ -1375,7 +1390,8 @@
         "download_url": "devagarinho.zip",
         "download_count": 18051,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 18,
@@ -1456,7 +1472,8 @@
         "download_url": "soltaograve.zip",
         "download_count": 47542,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 19,
@@ -1537,7 +1554,8 @@
         "download_url": "sentadanervosa.zip",
         "download_count": 19858,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 20,
@@ -1618,7 +1636,8 @@
         "download_url": "adestrador.zip",
         "download_count": 18009,
         "unlock_count": 0,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 21,
@@ -1709,7 +1728,8 @@
         "download_url": "vrau.zip",
         "download_count": 8159,
         "unlock_count": 3991,
-        "featured": true
+        "featured": true,
+        "unlocked": false
     },
     {
         "id": 22,
@@ -1805,7 +1825,8 @@
         "download_url": "gaiola.zip",
         "download_count": 22254,
         "unlock_count": 10443,
-        "featured": true
+        "featured": true,
+        "unlocked": false
     },
     {
         "id": 23,
@@ -1901,7 +1922,8 @@
         "download_url": "chatuba.zip",
         "download_count": 5677,
         "unlock_count": 2776,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 24,
@@ -1997,7 +2019,8 @@
         "download_url": "sampley.zip",
         "download_count": 3755,
         "unlock_count": 1707,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 25,
@@ -2073,7 +2096,8 @@
         "download_url": "paunoseucu.zip",
         "download_count": 4445,
         "unlock_count": 2200,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 26,
@@ -2169,7 +2193,8 @@
         "download_url": "carnaval.zip",
         "download_count": 3932,
         "unlock_count": 1985,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 27,
@@ -2265,7 +2290,8 @@
         "download_url": "pumba.zip",
         "download_count": 10203,
         "unlock_count": 4713,
-        "featured": true
+        "featured": true,
+        "unlocked": false
     },
     {
         "id": 28,
@@ -2361,7 +2387,8 @@
         "download_url": "macacoposte.zip",
         "download_count": 3351,
         "unlock_count": 1579,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 29,
@@ -2457,7 +2484,8 @@
         "download_url": "soufoda.zip",
         "download_count": 3871,
         "unlock_count": 1946,
-        "featured": true
+        "featured": true,
+        "unlocked": false
     },
     {
         "id": 30,
@@ -2553,7 +2581,8 @@
         "download_url": "sarrapraesquerda.zip",
         "download_count": 2503,
         "unlock_count": 1195,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 31,
@@ -2649,7 +2678,8 @@
         "download_url": "funkdosax.zip",
         "download_count": 5430,
         "unlock_count": 2534,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 32,
@@ -2745,7 +2775,8 @@
         "download_url": "flamengo.zip",
         "download_count": 6421,
         "unlock_count": 2950,
-        "featured": false
+        "featured": false,
+        "unlocked": false
     },
     {
         "id": 33,
@@ -2841,6 +2872,7 @@
         "download_url": "teclado2009.zip",
         "download_count": 3303,
         "unlock_count": 1418,
-        "featured": true
+        "featured": true,
+        "unlocked": false
     }
 ]
