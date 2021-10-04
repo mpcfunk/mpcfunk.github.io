@@ -1,0 +1,8 @@
+{
+  "admob_rewarded_priority": 1,
+  "unity_ads_rewarded_priority": 1,
+  "iron_source_rewarded_priority": -1,
+  "admob_interstitial_priority": 1,
+  "unity_ads_interstitial_priority": -1,
+  "iron_source_interstitial_priority": -1
+}
